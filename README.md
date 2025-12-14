@@ -198,19 +198,4 @@ A scene from the Iron man story where the Iron man character is swapped by me �
 * Child Safety Filtering
 * Educational Story Templates
 
----
-
-## Contributing
-
-PRs are welcome! Feel free to fork the repo and submit improvements. For major changes, please open an issue first.
-
----
-
-## Authors & Credits
-
-Made with ❤️ by [katakampranav](https://github.com/katakampranav)
-
----
-
-
 # REALM
