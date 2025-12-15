@@ -186,7 +186,7 @@ A scene from a stroy which is generated from a set of images uploaded:
 ### Option 2 Output
 
 A scene from the Iron man story where the Iron man character is swapped by me 🙂:
-![Image](https://github.com/user-attachments/assets/66c97fd8-a2fc-4d16-afea-45282c9d54a0)
+![Image](https://github.com/user-attachments/assets/722ed922-a3aa-4edd-90d1-4db50b2a6eeb)
 
 ---
 
